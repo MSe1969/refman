@@ -1,0 +1,20 @@
+<manifest>
+
+  <remote  name="aosp"
+           fetch="https://android.googlesource.com"
+           review="android-review.googlesource.com"
+           revision="refs/tags/android-8.1.0_r7" />
+
+  <project path="hardware/broadcom/libbt" name="platform/hardware/broadcom/libbt" />
+  <project path="hardware/broadcom/wlan" name="platform/hardware/broadcom/wlan" />  
+
+  <project path="hardware/qcom/audio" name="platform/hardware/broadcom/audio" />  
+  <project path="hardware/qcom/bt" name="platform/hardware/broadcom/bt" />  
+  <project path="hardware/qcom/display" name="platform/hardware/broadcom/display" />  
+  <project path="hardware/qcom/msm8x74" name="platform/hardware/broadcom/msm8x74" />  
+  <project path="hardware/qcom/wlan" name="platform/hardware/broadcom/wlan" />  
+
+  <project path="kernel/common" name="kernel/common" revision="refs/heads/android-3.10" />
+  <project path="kernel/common" name="kernel/common" revision="refs/tags/android-8.1.0_r0.17" />
+
+</manifest>
