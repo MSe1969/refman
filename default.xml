@@ -5,6 +5,10 @@
            review="android-review.googlesource.com"
            revision="refs/tags/android-8.1.0_r7" />
 
+  <default remote="aosp"
+           sync-c="true"
+           sync-j="4" />
+
   <project path="hardware/broadcom/libbt" name="platform/hardware/broadcom/libbt" />
   <project path="hardware/broadcom/wlan" name="platform/hardware/broadcom/wlan" />  
 
