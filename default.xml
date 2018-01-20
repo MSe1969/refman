@@ -28,4 +28,7 @@
   <project path="kernel/common" name="kernel/common" revision="refs/heads/android-3.10" />
   <project path="kernel/msm" name="kernel/msm" revision="refs/tags/android-8.1.0_r0.17" />
 
+  <project path="system/core" name="platform/system/core" />  
+
+
 </manifest>
