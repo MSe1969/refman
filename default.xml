@@ -17,4 +17,6 @@
   <project path="kernel/common" name="kernel/common" revision="refs/heads/android-3.10" />
   <project path="kernel/common" name="kernel/common" revision="refs/tags/android-8.1.0_r0.17" />
 
+  <project path="refman" fetch="https://github.com/MSe1969/refman" revision="master" />
+
 </manifest>
