@@ -9,6 +9,8 @@
            sync-c="true"
            sync-j="4" />
 
+  <project path="refman" fetch="https://github.com/MSe1969/refman" revision="master" />
+  
   <project path="hardware/broadcom/libbt" name="platform/hardware/broadcom/libbt" />
   <project path="hardware/broadcom/wlan" name="platform/hardware/broadcom/wlan" />  
 
@@ -19,8 +21,6 @@
   <project path="hardware/qcom/wlan" name="platform/hardware/broadcom/wlan" />  
 
   <project path="kernel/common" name="kernel/common" revision="refs/heads/android-3.10" />
-  <project path="kernel/common" name="kernel/common" revision="refs/tags/android-8.1.0_r0.17" />
-
-  <project path="refman" fetch="https://github.com/MSe1969/refman" revision="master" />
+  <project path="kernel/msm" name="kernel/msm" revision="refs/tags/android-8.1.0_r0.17" />
 
 </manifest>
