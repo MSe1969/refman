@@ -29,6 +29,7 @@
   <project path="kernel/msm" name="kernel/msm" revision="refs/tags/android-8.1.0_r0.17" />
 
   <project path="frameworks/native" name="platform/frameworks/native" />  
+  <project path="frameworks/base" name="platform/frameworks/base" />  
   <project path="system/core" name="platform/system/core" />  
   <project path="libcore" name="platform/libcore" />  
 
