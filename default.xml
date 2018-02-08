@@ -26,7 +26,7 @@
   <project path="hardware/qcom/wlan" name="platform/hardware/qcom/wlan" />  
 
   <project path="kernel/common" name="kernel/common" revision="refs/heads/android-3.10" />
-  <project path="kernel/msm" name="kernel/msm" revision="refs/tags/android-8.1.0_r0.17" />
+  <project path="kernel/msm" name="kernel/msm" revision="refs/tags/android-8.1.0_r0.27" />
 
   <project path="frameworks/native" name="platform/frameworks/native" />  
   <project path="frameworks/base" name="platform/frameworks/base" />  
