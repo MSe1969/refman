@@ -4,7 +4,7 @@
   <remote  name="aosp"
            fetch="https://android.googlesource.com"
            review="android-review.googlesource.com"
-           revision="refs/tags/android-8.1.0_r7" />
+           revision="refs/tags/android-8.1.0_r14" />
 
   <remote  name="github" 
            fetch="https://github.com/MSe1969"
@@ -30,7 +30,17 @@
 
   <project path="frameworks/native" name="platform/frameworks/native" />  
   <project path="frameworks/base" name="platform/frameworks/base" />  
+
+  <project path="system/bt" name="platform/system/bt" groups="pdk" />
   <project path="system/core" name="platform/system/core" />  
+  <project path="system/extras" name="platform/system/extras" groups="pdk" />
+  <project path="system/gatekeeper" name="platform/system/gatekeeper" groups="pdk" />
+  <project path="system/keymaster" name="platform/system/keymaster" groups="pdk" />
+  <project path="system/media" name="platform/system/media" groups="pdk" />
+  <project path="system/netd" name="platform/system/netd" groups="pdk" />
+  <project path="system/security" name="platform/system/security" groups="pdk" />
+  <project path="system/vold" name="platform/system/vold" groups="pdk" />
+
   <project path="libcore" name="platform/libcore" />  
 
   <project path="external/libxml2" name="platform/external/libxml2" />
