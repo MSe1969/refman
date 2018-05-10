@@ -45,6 +45,7 @@
 
   <project path="libcore" name="platform/libcore" />  
 
+  <project path="external/libhevc" name="platform/external/libhevc" />
   <project path="external/libxml2" name="platform/external/libxml2" />
 
 </manifest>
