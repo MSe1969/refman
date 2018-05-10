@@ -30,8 +30,9 @@
   <project path="kernel/common" name="kernel/common" revision="refs/heads/android-3.10.y" />
   <project path="kernel/msm" name="kernel/msm" revision="refs/tags/android-8.1.0_r0.55" />
 
-  <project path="frameworks/native" name="platform/frameworks/native" />  
   <project path="frameworks/base" name="platform/frameworks/base" />  
+  <project path="frameworks/native" name="platform/frameworks/native" />  
+  <project path="frameworks/ex" name="platform/frameworks/ex" />  
 
   <project path="system/bt" name="platform/system/bt" groups="pdk" />
   <project path="system/core" name="platform/system/core" />  
