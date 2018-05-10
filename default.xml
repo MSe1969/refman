@@ -17,6 +17,7 @@
   <project path="refman" name="refman" remote="github" />
   
   <project path="bionic" name="platform/bionic" />
+  <project path="build" name="platform/build" />
 
   <project path="hardware/broadcom/libbt" name="platform/hardware/broadcom/libbt" />
   <project path="hardware/broadcom/wlan" name="platform/hardware/broadcom/wlan" />  
