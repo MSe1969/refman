@@ -49,6 +49,7 @@
   <project path="external/aac" name="platform/external/aac" />
   <project path="external/libavc" name="platform/external/libavc" />
   <project path="external/libhevc" name="platform/external/libhevc" />
+  <project path="external/libmpeg2" name="platform/external/libmpeg2" />
   <project path="external/libxml2" name="platform/external/libxml2" />
 
 </manifest>
