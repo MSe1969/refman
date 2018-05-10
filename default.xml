@@ -51,5 +51,6 @@
   <project path="external/libhevc" name="platform/external/libhevc" />
   <project path="external/libmpeg2" name="platform/external/libmpeg2" />
   <project path="external/libxml2" name="platform/external/libxml2" />
+  <project path="external/sonivox" name="platform/external/sonivox" />
 
 </manifest>
