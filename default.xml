@@ -33,8 +33,13 @@
 
   <project path="frameworks/av" name="platform/frameworks/av" />  
   <project path="frameworks/base" name="platform/frameworks/base" />  
-  <project path="frameworks/native" name="platform/frameworks/native" />  
   <project path="frameworks/ex" name="platform/frameworks/ex" />  
+  <project path="frameworks/native" name="platform/frameworks/native" />  
+  <project path="frameworks/minikin" name="platform/frameworks/minikin" />  
+  <project path="frameworks/opt/bluetooth" name="platform/frameworks/opt/bluetooth" />  
+  <project path="frameworks/opt/net/wifi" name="platform/frameworks/opt/net/wifi" />  
+  <project path="frameworks/opt/telephony" name="platform/frameworks/opt/telephony" />  
+  <project path="frameworks/wilhelm" name="platform/frameworks/wilhelm" />  
 
   <project path="system/bt" name="platform/system/bt" groups="pdk" />
   <project path="system/core" name="platform/system/core" />  
@@ -43,6 +48,7 @@
   <project path="system/keymaster" name="platform/system/keymaster" groups="pdk" />
   <project path="system/media" name="platform/system/media" groups="pdk" />
   <project path="system/netd" name="platform/system/netd" groups="pdk" />
+  <project path="system/nfc" name="platform/system/nfc" groups="pdk" />
   <project path="system/security" name="platform/system/security" groups="pdk" />
   <project path="system/sepolicy" name="platform/system/sepolicy" groups="pdk" />
   <project path="system/vold" name="platform/system/vold" groups="pdk" />
