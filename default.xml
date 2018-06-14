@@ -62,7 +62,6 @@
   <project path="external/libhevc" name="platform/external/libhevc" />
   <project path="external/libmpeg2" name="platform/external/libmpeg2" />
   <project path="external/libxml2" name="platform/external/libxml2" />
-  <project path="external/libvorbis" name="platform/external/libvorbis" />
   <project path="external/libvpx" name="platform/external/libvpx" />
   <project path="external/skia" name="platform/external/skia" />
   <project path="external/svox" name="platform/external/svox" />
