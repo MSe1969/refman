@@ -43,6 +43,7 @@
   <project path="frameworks/opt/net/wifi" name="platform/frameworks/opt/net/wifi" />  
   <project path="frameworks/opt/telephony" name="platform/frameworks/opt/telephony" /> 
   <project path="frameworks/rs" name="platform/frameworks/rs" />  
+  <project path="frameworks/webview" name="platform/frameworks/webview" /> 
   <project path="frameworks/wilhelm" name="platform/frameworks/wilhelm" />  
 
   <project path="system/bt" name="platform/system/bt" groups="pdk" />
@@ -78,8 +79,8 @@
   <project path="packages/providers/ContactsProvider" name="platform/packages/providers/ContactsProvider" />
   <project path="packages/providers/CalendarProvider" name="platform/packages/providers/CalendarProvider" />
   <project path="packages/providers/DownloadProvider" name="platform/packages/providers/DownloadProvider" />
-  <project path="packages/providers/TelephonyProvider" name="platform/packages/providers/TelephonyProvider" />
   <project path="packages/providers/MediaProvider" name="platform/packages/providers/MediaProvider" />
+  <project path="packages/providers/TelephonyProvider" name="platform/packages/providers/TelephonyProvider" />
   <project path="packages/providers/UserDictionaryProvider" name="platform/packages/providers/UserDictionaryProvider" />
 
   <project path="packages/services/Telecomm" name="platform/packages/services/Telecomm" />
