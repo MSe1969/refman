@@ -16,8 +16,10 @@
 
   <project path="refman" name="refman" remote="github" />
   
+  <project path="art" name="platform/art" />
   <project path="bionic" name="platform/bionic" />
   <project path="build" name="platform/build" />
+  <project path="dalvik" name="platform/dalvik" />
 
   <project path="hardware/broadcom/libbt" name="platform/hardware/broadcom/libbt" />
   <project path="hardware/broadcom/wlan" name="platform/hardware/broadcom/wlan" />  
@@ -28,6 +30,7 @@
   <project path="hardware/qcom/msm8996" name="platform/hardware/qcom/msm8996" />
   <project path="hardware/qcom/msm8x74" name="platform/hardware/qcom/msm8x74" revision="refs/tags/android-6.0.1_r81" />  
   <project path="hardware/qcom/wlan" name="platform/hardware/qcom/wlan" />  
+  <project path="hardware/ril" name="platform/hardware/ril" />
 
   <project path="kernel/arm64" name="kernel/arm64" revision="refs/tags/android-8.1.0_r0.79" />
   <project path="kernel/common" name="kernel/common" revision="refs/tags/ASB-2018-06-05_3.18-o-release" />
