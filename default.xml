@@ -34,7 +34,7 @@
 
   <project path="kernel/arm64" name="kernel/arm64" revision="refs/tags/android-9.0.0_r0.11" />
   <project path="kernel/common" name="kernel/common" revision="refs/tags/ASB-2018-08-05_3.18-o-release" />
-  <project path="kernel/msm" name="kernel/msm" revision="refs/tags/android-8.1.0_r0.102" />
+  <project path="kernel/msm" name="kernel/msm" revision="refs/tags/android-9.0.0_r0.14" />
 
   <project path="frameworks/av" name="platform/frameworks/av" />  
   <project path="frameworks/base" name="platform/frameworks/base" />  
