@@ -4,7 +4,7 @@
   <remote  name="aosp"
            fetch="https://android.googlesource.com"
            review="android-review.googlesource.com"
-           revision="refs/tags/android-8.1.0_r46" />
+           revision="refs/tags/android-8.1.0_r48" />
 
   <remote  name="github" 
            fetch="https://github.com/MSe1969"
@@ -33,8 +33,8 @@
   <project path="hardware/ril" name="platform/hardware/ril" />
 
   <project path="kernel/arm64" name="kernel/arm64" revision="refs/tags/android-9.0.0_r0.11" />
-  <project path="kernel/common" name="kernel/common" revision="refs/tags/ASB-2018-09-05_3.18-o-mr1" />
-  <project path="kernel/msm" name="kernel/msm" revision="refs/tags/android-8.1.0_r0.102" />
+  <project path="kernel/common" name="kernel/common" revision="refs/tags/ASB-2018-10-05_3.18-o-mr1" />
+  <project path="kernel/msm" name="kernel/msm" revision="refs/tags/android-8.1.0_r0.112" />
 
   <project path="frameworks/av" name="platform/frameworks/av" />  
   <project path="frameworks/base" name="platform/frameworks/base" />  
