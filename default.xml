@@ -14,7 +14,7 @@
            sync-c="true"
            sync-j="4" />
 
-  <project path="refman" name="refman" remote="github" />
+  <project path="refman" name="refman" remote="github" revision="master" />
   
   <project path="bionic" name="platform/bionic" />
   <project path="build" name="platform/build" />
