@@ -53,6 +53,7 @@
   <project path="frameworks/wilhelm" name="platform/frameworks/wilhelm" />  
 
   <project path="system/bt" name="platform/system/bt" groups="pdk" />
+  <project path="system/connectivity/wificond" name="platform/system/connectivity/wificond" groups="pdk" />
   <project path="system/core" name="platform/system/core" />  
   <project path="system/extras" name="platform/system/extras" groups="pdk" />
   <project path="system/gatekeeper" name="platform/system/gatekeeper" groups="pdk" />
