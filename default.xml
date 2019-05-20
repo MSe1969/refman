@@ -4,7 +4,7 @@
   <remote  name="aosp"
            fetch="https://android.googlesource.com"
            review="android-review.googlesource.com"
-           revision="refs/tags/android-8.1.0_r64" />
+           revision="refs/tags/android-7.0.0_r36" />
 
   <remote  name="github" 
            fetch="https://github.com/MSe1969"
@@ -24,18 +24,6 @@
   <project path="hardware/broadcom/libbt" name="platform/hardware/broadcom/libbt" />
   <project path="hardware/broadcom/wlan" name="platform/hardware/broadcom/wlan" />  
 
-  <project path="hardware/qcom/audio" name="platform/hardware/qcom/audio" />  
-  <project path="hardware/qcom/bt" name="platform/hardware/qcom/bt" />  
-  <project path="hardware/qcom/display" name="platform/hardware/qcom/display" />  
-  <project path="hardware/qcom/msm8996" name="platform/hardware/qcom/msm8996" />
-  <project path="hardware/qcom/msm8x74" name="platform/hardware/qcom/msm8x74" revision="refs/tags/android-6.0.1_r81" />  
-  <project path="hardware/qcom/wlan" name="platform/hardware/qcom/wlan" />  
-  <project path="hardware/ril" name="platform/hardware/ril" />
-
-  <project path="kernel/arm64" name="kernel/arm64" revision="refs/tags/android-9.0.0_r0.78" />
-  <project path="kernel/common" name="kernel/common" revision="refs/tags/ASB-2019-05-05_3.18-o-mr1" />
-  <project path="kernel/msm" name="kernel/msm" revision="refs/tags/android-9.0.0_r0.74" />
-
   <project path="frameworks/av" name="platform/frameworks/av" />  
   <project path="frameworks/base" name="platform/frameworks/base" />  
   <project path="frameworks/ex" name="platform/frameworks/ex" />  
@@ -53,14 +41,12 @@
   <project path="frameworks/wilhelm" name="platform/frameworks/wilhelm" />  
 
   <project path="system/bt" name="platform/system/bt" groups="pdk" />
-  <project path="system/connectivity/wificond" name="platform/system/connectivity/wificond" groups="pdk" />
   <project path="system/core" name="platform/system/core" />  
   <project path="system/extras" name="platform/system/extras" groups="pdk" />
   <project path="system/gatekeeper" name="platform/system/gatekeeper" groups="pdk" />
   <project path="system/keymaster" name="platform/system/keymaster" groups="pdk" />
   <project path="system/media" name="platform/system/media" groups="pdk" />
   <project path="system/netd" name="platform/system/netd" groups="pdk" />
-  <project path="system/nfc" name="platform/system/nfc" groups="pdk" />
   <project path="system/security" name="platform/system/security" groups="pdk" />
   <project path="system/sepolicy" name="platform/system/sepolicy" groups="pdk" />
   <project path="system/vold" name="platform/system/vold" groups="pdk" />
