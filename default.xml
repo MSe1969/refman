@@ -8,7 +8,7 @@
 
   <remote  name="github" 
            fetch="https://github.com/MSe1969"
-           revision="default" />
+           revision="aosp-n" />
 
   <default remote="aosp"
            sync-c="true"
