@@ -72,8 +72,9 @@
   <project path="external/libavc" name="platform/external/libavc" />
   <project path="external/libcxx" name="platform/external/libcxx" />
   <project path="external/libhevc" name="platform/external/libhevc" />
-  <project path="external/libnfnetlink" name="platform/external/libnfnetlink" />
+  <project path="external/libjpeg-turbo" name="platform/external/libjpeg-turbo" />
   <project path="external/libmpeg2" name="platform/external/libmpeg2" />
+  <project path="external/libnfnetlink" name="platform/external/libnfnetlink" />
   <project path="external/libxml2" name="platform/external/libxml2" />
   <project path="external/libvpx" name="platform/external/libvpx" />
   <project path="external/netcat" name="platform/external/netcat" />
